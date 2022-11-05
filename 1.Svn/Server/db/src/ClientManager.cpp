@@ -5,3 +5,5 @@
 				delete pSafebox;
 				
 https://puu.sh/FgGdU/cc183db7fd.png
+
+Dobule delete don't use
